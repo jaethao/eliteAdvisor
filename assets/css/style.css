@@ -1,29 +1,56 @@
 @charset "UTF-8";
 
 body {
-  background-image: url("../images/elite-bg.jpg");
+  background-image: url("../images/elite-promo3.png");
   background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
 	background-attachment: fixed;
 }
 
-#panelOne {
+hr {
   background-color: white;
 }
 
-#panelTwo {
-  background-color: white;
+#whiteBg {
+  background-color: rgba(255, 255, 255, .5);
+  padding-top: 6em;
+  padding-bottom: 6em;
 }
 
-#headliner {
-  margin-top: 5em;
+#countDown {
+  font-size: 3em;
 }
 
-#counter {
-  color: white;
+.redText {
+  color: maroon;
 }
 
 .boldText {
   color: red;
+}
+
+.alfa {
+  font-family: 'Rokkitt', serif;
+}
+
+.padded {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.blackBg {
+  background-color: rgba(128, 128, 128, 0.75);
+  color: white;
+  padding: 30px;
+  border-top: 5px solid maroon;
+}
+
+.maroonBg {
+  background-color: maroon;
+  padding: 25px;
+}
+
+.img-small {
+  width: 50%;
 }
