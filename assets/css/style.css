@@ -9,7 +9,7 @@ body {
 }
 
 hr {
-  background-color: white;
+  background-color: dimgray;
 }
 
 #whiteBg {
@@ -36,12 +36,10 @@ hr {
 
 .padded {
   padding-top: 25px;
-  padding-bottom: 25px;
 }
 
 .blackBg {
-  background-color: rgba(128, 128, 128, 0.75);
-  color: white;
+  background-color: rgba(220, 220, 220, 0.75);
   padding: 30px;
   border-top: 5px solid maroon;
 }
