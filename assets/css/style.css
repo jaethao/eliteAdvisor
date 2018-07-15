@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+body {
+  background-image: url("../images/elite-bg.jpg");
+  background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+#panelOne {
+  background-color: white;
+}
+
+#panelTwo {
+  background-color: white;
+}
+
+#headliner {
+  margin-top: 5em;
+}
+
+#counter {
+  color: white;
+}
+
+.boldText {
+  color: red;
+}
