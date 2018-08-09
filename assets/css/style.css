@@ -23,7 +23,11 @@ hr {
 }
 
 .redText {
-  color: maroon;
+  color: #630c0d;
+}
+
+.btn-danger {
+  background-color: #630c0d;
 }
 
 .boldText {
@@ -41,11 +45,11 @@ hr {
 .blackBg {
   background-color: rgba(220, 220, 220, 0.75);
   padding: 30px;
-  border-top: 5px solid maroon;
+  border-top: 5px solid #630c0d;
 }
 
 .maroonBg {
-  background-color: maroon;
+  background-color:rgba(220, 220, 220, 0.75);
   padding: 25px;
 }
 
